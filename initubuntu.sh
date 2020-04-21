@@ -27,4 +27,5 @@ sudo apt install vim
 sudo apt install flex
 sudo apt install bison
 sudo apt install u-boot-tools
+sudo apt  install exuberant-ctags
 
