@@ -29,3 +29,7 @@ sudo apt install bison
 sudo apt install u-boot-tools
 sudo apt  install exuberant-ctags
 
+sudo apt install scons
+sudo apt install mutt
+sudo apt install lib32z1
+
