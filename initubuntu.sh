@@ -33,3 +33,9 @@ sudo apt install scons
 sudo apt install mutt
 sudo apt install lib32z1
 
+sudo apt install tree
+
+
+# internet
+sudo apt install ifupdown-extra
+sudo apt-get install build-essential
